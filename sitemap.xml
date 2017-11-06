@@ -9,9 +9,6 @@
       <image:loc>http://www.boostfinancialservices.com/images/_dsf3225.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.boostfinancialservices.com/images/dscf4925_1-crop-u122497.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.boostfinancialservices.com/images/boost-financial-services-logo.png</image:loc>
     </image:image>
     <image:image>
@@ -22,9 +19,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.boostfinancialservices.com/images/services-arrow.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.boostfinancialservices.com/images/services-bground-crop-u2887.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.boostfinancialservices.com/images/search.png</image:loc>
@@ -53,46 +47,10 @@
     <image:image>
       <image:loc>http://www.boostfinancialservices.com/images/contact-iconb.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://www.boostfinancialservices.com/images/dscf4925_1-crop-u1224972.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.boostfinancialservices.com/images/services-bground-crop-u28872.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.boostfinancialservices.com/images/dscf4925_1-crop-u1224973.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.boostfinancialservices.com/images/services-bground.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.boostfinancialservices.com/images/dscf4925_1-crop-u1224974.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.boostfinancialservices.com/images/dscf4925_1-crop-u1224975.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.boostfinancialservices.com/images/dscf4925_1-crop-u1224976.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.boostfinancialservices.com/images/dscf4925_1-crop-u1224977.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.boostfinancialservices.com/images/services-bground-crop-u28873.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.boostfinancialservices.com/images/dscf4925_1-crop-u1224978.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.boostfinancialservices.com/images/services-bground-crop-u28874.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.boostfinancialservices.com/images/services-bground-crop-u28875.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://www.boostfinancialservices.com/about.html</loc>
-    <lastmod>2017-11-05</lastmod>
+    <lastmod>2017-11-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -194,10 +152,13 @@
     <image:image>
       <image:loc>http://www.boostfinancialservices.com/images/top-icon-1.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.boostfinancialservices.com/images/aerial%20of%20kingston%20waterfront.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.boostfinancialservices.com/contact.html</loc>
-    <lastmod>2017-11-05</lastmod>
+    <lastmod>2017-11-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -281,7 +242,7 @@
   </url>
   <url>
     <loc>http://www.boostfinancialservices.com/business-loans.html</loc>
-    <lastmod>2017-11-05</lastmod>
+    <lastmod>2017-11-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -318,6 +279,9 @@
       <image:loc>http://www.boostfinancialservices.com/images/top-icon-1.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.boostfinancialservices.com/images/aerial%20of%20kingston%20waterfront.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.boostfinancialservices.com/images/_dsf3405-crop-u120359.jpg</image:loc>
     </image:image>
     <image:image>
@@ -346,9 +310,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.boostfinancialservices.com/images/_dsf3357_2-crop-u1202084.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.boostfinancialservices.com/images/aerial%20of%20kingston%20waterfront597x336.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.boostfinancialservices.com/images/_dsf3405-crop-u1203595.jpg</image:loc>
@@ -395,7 +356,7 @@
   </url>
   <url>
     <loc>http://www.boostfinancialservices.com/personal-loans.html</loc>
-    <lastmod>2017-11-05</lastmod>
+    <lastmod>2017-11-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

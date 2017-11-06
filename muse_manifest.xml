@@ -1,30 +1,30 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.boostfinancialservices.com" resolutions="1x" timestamp="1509981422984">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.boostfinancialservices.com" resolutions="1x" timestamp="1510004213203">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master-copy.css" crc="510830460" ref="404:our-loans:business-loans:personal-loans:contact:about"/>
-    <file name="nomq_preview_master_a-master-copy.css" crc="3846431724" ref="404:our-loans:business-loans:personal-loans:contact:about"/>
+    <file name="master_a-master-copy.css" crc="4047324672" ref="404:our-loans:business-loans:personal-loans:contact:about"/>
+    <file name="nomq_preview_master_a-master-copy.css" crc="4288898240" ref="404:our-loans:business-loans:personal-loans:contact:about"/>
     <file name="master_a-master.css" crc="305829103" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="4144002585" ref="index"/>
     <file name="404.css" crc="222409459" ref="404"/>
     <file name="nomq_404.css" crc="4008516219" ref="404"/>
     <file name="iefonts_404.css" crc="3824530138" ref="404"/>
-    <file name="our-loans.css" crc="498815884" ref="our-loans"/>
+    <file name="our-loans.css" crc="4196426826" ref="our-loans"/>
     <file name="nomq_our-loans.css" crc="4226840050" ref="our-loans"/>
     <file name="iefonts_our-loans.css" crc="3824530138" ref="our-loans"/>
-    <file name="business-loans.css" crc="159936778" ref="business-loans"/>
-    <file name="nomq_business-loans.css" crc="132813809" ref="business-loans"/>
+    <file name="business-loans.css" crc="3918008987" ref="business-loans"/>
+    <file name="nomq_business-loans.css" crc="362492638" ref="business-loans"/>
     <file name="iefonts_business-loans.css" crc="3824530138" ref="business-loans"/>
-    <file name="personal-loans.css" crc="4285166825" ref="personal-loans"/>
-    <file name="nomq_personal-loans.css" crc="4248462702" ref="personal-loans"/>
+    <file name="personal-loans.css" crc="4020426009" ref="personal-loans"/>
+    <file name="nomq_personal-loans.css" crc="444691237" ref="personal-loans"/>
     <file name="iefonts_personal-loans.css" crc="3824530138" ref="personal-loans"/>
-    <file name="contact.css" crc="4082003435" ref="contact"/>
-    <file name="nomq_contact.css" crc="108186619" ref="contact"/>
+    <file name="contact.css" crc="4249280135" ref="contact"/>
+    <file name="nomq_contact.css" crc="386364346" ref="contact"/>
     <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
-    <file name="about.css" crc="3791937009" ref="about"/>
+    <file name="about.css" crc="48119510" ref="about"/>
     <file name="nomq_about.css" crc="371097404" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
-    <file name="index.css" crc="136867727" ref="index"/>
-    <file name="nomq_index.css" crc="69530094" ref="index"/>
+    <file name="index.css" crc="354732028" ref="index"/>
+    <file name="nomq_index.css" crc="356953590" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -48,7 +48,7 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:about:our-loans:contact:404:business-loans:personal-loans"/>
     <file name="jquery.museresponsive.js" crc="4267800278" ref="index:about:our-loans:contact:404:business-loans:personal-loans"/>
     <file name="require.js" crc="3861931657" ref="index:about:our-loans:contact:404:business-loans:personal-loans"/>
-    <file name="form-u36848.php" crc="195642856" ref="about:our-loans"/>
+    <file name="form-u36848.php" crc="195642856" ref="about"/>
     <file name="form-u57438.php" crc="3858358458" ref="contact"/>
   </folder>
   <folder name="images">
@@ -163,9 +163,6 @@
       <caption webpage="index" alt="How can I get a loan for my business?"/>
       <caption webpage="index" alt="How can I receive consulting?"/>
       <caption webpage="index" alt="How can I grow and expand my business and company?"/>
-    </file>
-    <file name="dscf4925_1-crop-u122497.jpg" crc="86186737" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
     </file>
     <file name="boost-financial-services-logo.png" crc="468123494" seo="true" ref="index:about:our-loans:contact:404:business-loans:personal-loans">
       <caption webpage="404" alt=""/>
@@ -282,9 +279,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="services-bground-crop-u2887.png" crc="437736670" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="search.png" crc="4267797773" seo="true" ref="index:about:our-loans:contact:business-loans:personal-loans">
       <caption webpage="index" alt=""/>
       <caption webpage="business-loans" alt=""/>
@@ -357,16 +351,8 @@
       <caption webpage="our-loans" alt=""/>
       <caption webpage="our-loans" alt=""/>
     </file>
-    <file name="_dsf2226_2.jpg" crc="65072306" ref="index:about:404:our-loans">
+    <file name="_dsf2226_2.jpg" crc="65072306" ref="index:about:404">
       <caption webpage="index" alt=""/>
-      <caption webpage="our-loans" alt=""/>
-      <caption webpage="our-loans" alt=""/>
-      <caption webpage="our-loans" alt=""/>
-      <caption webpage="our-loans" alt=""/>
-      <caption webpage="our-loans" alt=""/>
-      <caption webpage="our-loans" alt=""/>
-      <caption webpage="our-loans" alt=""/>
-      <caption webpage="our-loans" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -375,6 +361,14 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="our-loans" alt=""/>
+      <caption webpage="our-loans" alt=""/>
+      <caption webpage="our-loans" alt=""/>
+      <caption webpage="our-loans" alt=""/>
+      <caption webpage="our-loans" alt=""/>
+      <caption webpage="our-loans" alt=""/>
+      <caption webpage="our-loans" alt=""/>
+      <caption webpage="our-loans" alt=""/>
     </file>
     <file name="testimonials-bg.png" crc="4151177914" ref="index">
       <caption webpage="index" alt=""/>
@@ -655,7 +649,7 @@
       <caption webpage="our-loans" alt=""/>
       <caption webpage="our-loans" alt=""/>
     </file>
-    <file name="facebook.png" crc="430881468" ref="index:about:404:our-loans">
+    <file name="facebook.png" crc="430881468" ref="index:about:404">
       <caption webpage="404" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -685,7 +679,7 @@
       <caption webpage="our-loans" alt=""/>
       <caption webpage="our-loans" alt=""/>
     </file>
-    <file name="linkedin.png" crc="332008627" ref="index:about:404:our-loans">
+    <file name="linkedin.png" crc="332008627" ref="index:about:404">
       <caption webpage="404" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -907,48 +901,6 @@
       <caption webpage="our-loans" alt=""/>
       <caption webpage="our-loans" alt=""/>
     </file>
-    <file name="dscf4925_1-crop-u1224972.jpg" crc="371130081" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="services-bground-crop-u28872.png" crc="258926674" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="services-bg2.jpg" crc="7903173" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="dscf4925_1-crop-u1224973.jpg" crc="95412079" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="services-bground.png" crc="98343482" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="dscf4925_1-crop-u1224974.jpg" crc="62476250" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="dscf4925_1-crop-u1224975.jpg" crc="4156741536" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="dscf4925_1-crop-u1224976.jpg" crc="4186505156" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="dscf4925_1-crop-u1224977.jpg" crc="29492884" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="services-bground-crop-u28873.png" crc="4237077321" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="dscf4925_1-crop-u1224978.jpg" crc="277512404" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="services-bground-crop-u28874.png" crc="4091824008" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="services-bground-crop-u28875.png" crc="290425282" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="top-icon-1.png" crc="260313094" seo="true" ref="about:our-loans:contact:404:business-loans:personal-loans">
       <caption webpage="404" alt=""/>
       <caption webpage="404" alt=""/>
@@ -968,42 +920,44 @@
       <caption webpage="our-loans" alt=""/>
       <caption webpage="our-loans" alt=""/>
     </file>
-    <file name="gray-concrete-stairs-picjumbo-com-crop-u121164.jpg" crc="65205719" seo="true" ref="about">
+    <file name="gray-concrete-stairs-picjumbo-com-crop-u121164.jpg" crc="534600608" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="gray-concrete-stairs-picjumbo-com-crop-u1211642.jpg" crc="4251042551" seo="true" ref="about">
+    <file name="gray-concrete-stairs-picjumbo-com-crop-u1211642.jpg" crc="292429601" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="gray-concrete-stairs-picjumbo-com-crop-u1211643.jpg" crc="416485719" seo="true" ref="about">
+    <file name="gray-concrete-stairs-picjumbo-com-crop-u1211643.jpg" crc="205300892" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="gray-concrete-stairs-picjumbo-com-crop-u1211644.jpg" crc="269890755" seo="true" ref="about">
+    <file name="gray-concrete-stairs-picjumbo-com-crop-u1211644.jpg" crc="346055224" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="gray-concrete-stairs-picjumbo-com-crop-u1211645.jpg" crc="4191857121" seo="true" ref="about">
+    <file name="gray-concrete-stairs-picjumbo-com-crop-u1211645.jpg" crc="61933708" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="gray-concrete-stairs-picjumbo-com308x206.jpg" crc="460335012" seo="true" ref="about">
+    <file name="gray-concrete-stairs-picjumbo-com308x206.jpg" crc="205849544" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="gray-concrete-stairs-picjumbo-com247x165.jpg" crc="353509996" seo="true" ref="about">
+    <file name="gray-concrete-stairs-picjumbo-com247x165.jpg" crc="3978712114" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="gray-concrete-stairs-picjumbo-com195x130.jpg" crc="445943810" seo="true" ref="about">
+    <file name="gray-concrete-stairs-picjumbo-com195x130.jpg" crc="4258793336" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="gray-concrete-stairs-picjumbo-com165x110.jpg" crc="4129144863" seo="true" ref="about">
+    <file name="gray-concrete-stairs-picjumbo-com165x110.jpg" crc="203723336" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="aerial of kingston waterfront.jpg" crc="3875255751" ref="our-loans:business-loans">
+    <file name="aerial of kingston waterfront.jpg" crc="3875255751" ref="our-loans:business-loans" seo="true">
+      <caption webpage="business-loans" alt=""/>
       <caption webpage="business-loans" alt=""/>
       <caption webpage="business-loans" alt=""/>
       <caption webpage="our-loans" alt=""/>
     </file>
     <file name="dscf4786_2.jpg" crc="313008684" ref="our-loans">
       <caption webpage="our-loans" alt=""/>
+      <caption webpage="our-loans" alt=""/>
     </file>
-    <file name="aerial of kingston waterfront-u69299-fr.jpg" crc="292226529" ref="our-loans"/>
+    <file name="aerial of kingston waterfront-u69299-fr.jpg" crc="3919379479" ref="our-loans"/>
     <file name="dscf4786_2-u70725-fr.jpg" crc="229280445" ref="our-loans"/>
     <file name="dscf4786_2-u70725-fr2.jpg" crc="81514136" ref="our-loans"/>
     <file name="dscf4786_2-u70725-fr3.jpg" crc="18110190" ref="our-loans"/>
@@ -1040,13 +994,13 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="_dsf3405-crop-u120359.jpg" crc="3942594287" seo="true" ref="business-loans">
+    <file name="_dsf3405-crop-u120359.jpg" crc="3968486798" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
     <file name="aerial of kingston waterfront543x306.jpg" crc="3767700338" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
-    <file name="_dsf3357_2-crop-u120208.jpg" crc="501635885" seo="true" ref="business-loans">
+    <file name="_dsf3357_2-crop-u120208.jpg" crc="296600117" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
     <file name="footer-arrow.png" crc="268384882" seo="true" ref="business-loans:personal-loans">
@@ -1087,65 +1041,62 @@
       <caption webpage="business-loans" alt=""/>
       <caption webpage="business-loans" alt=""/>
     </file>
-    <file name="_dsf3405-crop-u1203592.jpg" crc="3914313546" seo="true" ref="business-loans">
+    <file name="_dsf3405-crop-u1203592.jpg" crc="3935031006" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
-    <file name="_dsf3357_2-crop-u1202082.jpg" crc="3874242030" seo="true" ref="business-loans">
+    <file name="_dsf3357_2-crop-u1202082.jpg" crc="4251857262" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
-    <file name="_dsf3405-crop-u1203593.jpg" crc="3832968549" seo="true" ref="business-loans">
+    <file name="_dsf3405-crop-u1203593.jpg" crc="157565989" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
-    <file name="_dsf3357_2-crop-u1202083.jpg" crc="3923281111" seo="true" ref="business-loans">
+    <file name="_dsf3357_2-crop-u1202083.jpg" crc="4196885893" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
-    <file name="_dsf3405-crop-u1203594.jpg" crc="15815766" seo="true" ref="business-loans">
+    <file name="_dsf3405-crop-u1203594.jpg" crc="4069205979" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
-    <file name="_dsf3357_2-crop-u1202084.jpg" crc="202514470" seo="true" ref="business-loans">
+    <file name="_dsf3357_2-crop-u1202084.jpg" crc="155969417" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
-    <file name="aerial of kingston waterfront597x336.jpg" crc="4095389355" seo="true" ref="business-loans">
+    <file name="_dsf3405-crop-u1203595.jpg" crc="3819850890" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
-    <file name="_dsf3405-crop-u1203595.jpg" crc="316828780" seo="true" ref="business-loans">
-      <caption webpage="business-loans" alt=""/>
-    </file>
-    <file name="_dsf3357_2-crop-u1202085.jpg" crc="3778574505" seo="true" ref="business-loans">
+    <file name="_dsf3357_2-crop-u1202085.jpg" crc="4046114599" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
     <file name="aerial of kingston waterfront540x304.jpg" crc="198669926" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
-    <file name="_dsf3405-crop-u1203596.jpg" crc="181942034" seo="true" ref="business-loans">
+    <file name="_dsf3405-crop-u1203596.jpg" crc="3875073487" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
-    <file name="_dsf3357_2-crop-u1202086.jpg" crc="4082707029" seo="true" ref="business-loans">
+    <file name="_dsf3357_2-crop-u1202086.jpg" crc="3940634599" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
     <file name="aerial of kingston waterfront406x229.jpg" crc="4130326030" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
-    <file name="_dsf3405-crop-u1203597.jpg" crc="344139377" seo="true" ref="business-loans">
+    <file name="_dsf3405-crop-u1203597.jpg" crc="303186311" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
-    <file name="_dsf3357_2-crop-u1202087.jpg" crc="277969329" seo="true" ref="business-loans">
+    <file name="_dsf3357_2-crop-u1202087.jpg" crc="4082010143" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
     <file name="aerial of kingston waterfront329x185.jpg" crc="94161471" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
       <caption webpage="business-loans" alt=""/>
     </file>
-    <file name="_dsf3405-crop-u1203598.jpg" crc="3985598203" seo="true" ref="business-loans">
+    <file name="_dsf3405-crop-u1203598.jpg" crc="381413089" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
-    <file name="_dsf3357_2-crop-u1202088.jpg" crc="314931549" seo="true" ref="business-loans">
+    <file name="_dsf3357_2-crop-u1202088.jpg" crc="3797579219" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
-    <file name="_dsf3405-crop-u1203599.jpg" crc="4155241468" seo="true" ref="business-loans">
+    <file name="_dsf3405-crop-u1203599.jpg" crc="445733298" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
-    <file name="_dsf3357_2-crop-u1202089.jpg" crc="449716357" seo="true" ref="business-loans">
+    <file name="_dsf3357_2-crop-u1202089.jpg" crc="196264718" seo="true" ref="business-loans">
       <caption webpage="business-loans" alt=""/>
     </file>
     <file name="aerial of kingston waterfront304x171.jpg" crc="105647232" seo="true" ref="business-loans">
@@ -1265,22 +1216,23 @@
     <file name="_dsf3224.jpg" crc="111653231" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dscf4925_1-u127367-fr.jpg" crc="91851650" ref="index"/>
-    <file name="dscf4925_1-u127367-fr2.jpg" crc="386897797" ref="index"/>
-    <file name="dscf4925_1-u127367-fr3.jpg" crc="3865244483" ref="index"/>
-    <file name="dscf4925_1-u127367-fr4.jpg" crc="47535654" ref="index"/>
-    <file name="dscf4925_1-u127367-fr5.jpg" crc="4149794052" ref="index"/>
+    <file name="dscf4925_1-u127367-fr.jpg" crc="386897797" ref="index"/>
+    <file name="dscf4925_1-u127367-fr2.jpg" crc="3865244483" ref="index"/>
+    <file name="dscf4925_1-u127367-fr3.jpg" crc="47535654" ref="index"/>
+    <file name="dscf4925_1-u127367-fr4.jpg" crc="4149794052" ref="index"/>
+    <file name="dscf4925_1-u127367-fr5.jpg" crc="211173829" ref="index"/>
     <file name="_dsf3224-u127383-fr.jpg" crc="3798428267" ref="index"/>
-    <file name="dscf4925_1-u127367-fr6.jpg" crc="211173829" ref="index"/>
     <file name="_dsf3224-u127383-fr2.jpg" crc="4291962938" ref="index"/>
     <file name="_dsf3224-u127383-fr3.jpg" crc="380599892" ref="index"/>
     <file name="_dsf3224-u127383-fr4.jpg" crc="168580644" ref="index"/>
+    <file name="aerial of kingston waterfront-u69299-fr2.jpg" crc="56956218" ref="our-loans"/>
+    <file name="aerial of kingston waterfront-u69299-fr3.jpg" crc="292226529" ref="our-loans"/>
   </folder>
-  <file name="index.html" crc="145138127" seo="true" mt="1509980857434" redirect="true"/>
-  <file name="about.html" crc="3771857717" seo="true" mt="1509904277746" redirect="true"/>
-  <file name="our-loans.html" crc="4050368928" seo="true" mt="1509981346161" redirect="true"/>
-  <file name="contact.html" crc="4096831920" seo="true" mt="1509904319421" redirect="true"/>
+  <file name="index.html" crc="263947625" seo="true" mt="1509987100592" redirect="true"/>
+  <file name="about.html" crc="424800248" seo="true" mt="1509987718962" redirect="true"/>
+  <file name="our-loans.html" crc="417608502" seo="true" mt="1509987487189" redirect="true"/>
+  <file name="contact.html" crc="4182793398" seo="true" mt="1509988471607" redirect="true"/>
   <file name="404.html" crc="135462211" seo="true" mt="1509901422359" redirect="true"/>
-  <file name="business-loans.html" crc="3924070311" seo="true" mt="1509901422359" redirect="true"/>
-  <file name="personal-loans.html" crc="3936284825" seo="true" mt="1509901422359" redirect="true"/>
+  <file name="business-loans.html" crc="3889033301" seo="true" mt="1509991485816" redirect="true"/>
+  <file name="personal-loans.html" crc="3866012226" seo="true" mt="1509997916607" redirect="true"/>
 </manifest>
